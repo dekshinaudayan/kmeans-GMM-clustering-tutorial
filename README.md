@@ -4,24 +4,33 @@ This repository contains the code, figures, and tutorial for a comparison betwee
 
 # Contents
 
-kmeans_gmm_demo.ipynb — Jupyter notebook with all code and plots
-report.pdf — Final written tutorial (<2000 words)
-LICENSE — MIT License
+# K-Means vs Gaussian Mixture Models — Clustering Tutorial
 
-# Techniques Covered
+This repository contains:
 
-K-Means clustering
-Gaussian Mixture Models
-Elbow method
-Silhouette score
-AIC/BIC model selection
-Failure case on anisotropic data
+- **kmeans_gmm_demo.ipynb** — Jupyter notebook with all code and generated plots  
+- **report.pdf** — Final written tutorial (<2000 words)  
+- **LICENSE** — MIT License  
 
-# How to Run the Notebook
+---
 
-1.Install Python 3.8+
-2.Install dependencies:
-    CODE : pip install numpy matplotlib scikit-learn
+## Techniques Covered
+
+- K-Means clustering  
+- Gaussian Mixture Models  
+- Elbow method  
+- Silhouette score  
+- AIC/BIC model selection  
+- Failure case on anisotropic data  
+
+---
+
+## How to Run the Notebook
+
+1. Install Python 3.8+  
+2. Install dependencies:  
+   ```bash
+   pip install numpy matplotlib scikit-learn
 3. Open the notebook
     CODE:jupyter notebook kmeans_gmm.ipynb
 
