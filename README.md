@@ -37,17 +37,17 @@ This repository contains:
 # Assignment Requirements
 
 This repository includes:
-A complete Jupyter notebook
-A PDF tutorial
-A licence
-A README
-Links to any external references included in the report
+- A complete Jupyter notebook
+- A PDF tutorial
+- A licence
+- A README
+- Links to any external references included in the report
 
 # References
 
-•	Week 3 Lecture Slides – Machine Learning and Neural Networks
-•	Dempster, A., Laird, N., & Rubin, D. (1977). Maximum Likelihood from Incomplete Data via the EM Algorithm.
-•	MacQueen, J. (1967). Some Methods for Classification and Analysis of Multivariate Observations.
-•	Scikit-learn documentation: https://scikit-learn.org
-•	Blog: “Understanding GMM and EM Algorithm”
-•	Blog: “K-Means Clustering Explained Clearly”
+- Week 3 Lecture Slides – Machine Learning and Neural Networks
+- Dempster, A., Laird, N., & Rubin, D. (1977). Maximum Likelihood from Incomplete Data via the EM Algorithm.
+- MacQueen, J. (1967). Some Methods for Classification and Analysis of Multivariate Observations.
+- Scikit-learn documentation: https://scikit-learn.org
+- Blog: “Understanding GMM and EM Algorithm”
+- Blog: “K-Means Clustering Explained Clearly”
