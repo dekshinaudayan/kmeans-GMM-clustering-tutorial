@@ -9,7 +9,7 @@ This repository contains the code, figures, and tutorial for a comparison betwee
 This repository contains:
 
 - **kmeans_gmm.ipynb** — Jupyter notebook with all code and generated plots  
-- **kmeans_gmm.pdf** — Final written tutorial (<2000 words)  
+- **K-Means_vs_GMM_Report.pdf** — Final written tutorial (<2000 words)  
 - **LICENSE** — MIT License  
 
 ---
