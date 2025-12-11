@@ -31,7 +31,8 @@ This repository contains:
 2. Install dependencies:  
    ```bash
    pip install numpy matplotlib scikit-learn
-3. Open the notebook
+3. Open the notebook:
+   ```bash
     CODE:jupyter notebook kmeans_gmm.ipynb
 
 # Assignment Requirements
