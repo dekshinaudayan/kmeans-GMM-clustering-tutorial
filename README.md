@@ -8,8 +8,8 @@ This repository contains the code, figures, and tutorial for a comparison betwee
 
 This repository contains:
 
-- **kmeans_gmm_demo.ipynb** — Jupyter notebook with all code and generated plots  
-- **report.pdf** — Final written tutorial (<2000 words)  
+- **kmeans_gmm.ipynb** — Jupyter notebook with all code and generated plots  
+- **kmeans_gmm.pdf** — Final written tutorial (<2000 words)  
 - **LICENSE** — MIT License  
 
 ---
@@ -34,6 +34,7 @@ This repository contains:
 3. Open the notebook:
    ```bash
     CODE:jupyter notebook kmeans_gmm.ipynb
+---
 
 # Assignment Requirements
 
@@ -43,6 +44,7 @@ This repository includes:
 - A licence
 - A README
 - Links to any external references included in the report
+---
 
 # References
 
